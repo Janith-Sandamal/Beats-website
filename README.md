@@ -6,7 +6,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-## Visit :- <a href="">Beats</a>
+## Visit :- <a href="https://neoex-solutions.github.io/Beats-website/">Beats</a>
 ## Desktop View
 ![127 0 0 1_5500_index html](https://github.com/Janith-Sandamal/Beats-website/assets/78975250/325d19cd-0a58-4a9d-85b9-0766f597cc91)
 <br><br>
